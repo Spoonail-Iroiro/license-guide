@@ -13,7 +13,7 @@ If I did not explicitly allow it, it is not allowed.
 ### Things still allowed
 
 That said, I do not intend to block everything under the name of copyright.  
-Here are examples of what is still allowed (these are generally not the target of copyright, but are listed here for clarity):
+Here are examples of what is still allowed (including things that may not be the target of copyright, but are listed here for clarity):
 
 - A patch mod (a mod changing another mod) that doesn't contain any substantial part of the original code/assets
   - If that is the case, it is YOUR work and I have nothing to do with it
