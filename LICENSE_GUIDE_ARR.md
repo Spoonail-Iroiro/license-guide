@@ -15,8 +15,8 @@ If I did not explicitly allow it, it is not allowed.
 That said, I do not intend to block everything under the name of copyright.  
 Here are examples of what is still allowed (these are generally not the target of copyright, but are listed here for clarity):
 
-- A patch mod (a mod changing another mod) that doesn't contain the original code/assets
-  - If it doesn't contain the original content, it's YOUR work and I have nothing to do with it
+- A patch mod (a mod changing another mod) that doesn't contain any substantial part of the original code/assets
+  - If that is the case, it is YOUR work and I have nothing to do with it
   - Note that just naming your mod "Patch" doesn't make it a patch. Make sure yours doesn't contain the original content
     - There're a bunch of mods that gets this wrong; they say "Patch" in the name but actually just a reupload
 - Read and learn from the mod/code
