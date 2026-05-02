@@ -34,8 +34,3 @@ Some cases might be added to the general rules/exceptions and that should help c
 
 In practice, "All rights reserved" here often just means I have not decided yet what should be allowed, a.k.a. just the default.  
 I may sometimes apply a more permissive license if asked.
-
-### "You don't have to write this. Your work automatically gets copyrighted"
-
-Yeah I know that, but I've seen things that that made me concerned that people might be actively ignoring that.  
-I do not want to make a big issue of it unless it becomes a real problem, but I thought it should be worth clarifying what I allow and what I do not, and that's why this document is here.
