@@ -1,17 +1,19 @@
 ## License guide for "All rights reserved" work
 
-This document is an additional note for my "All rights reserved" works (code/mods) to show what I expect you do/don't.
+This document is an additional note for my "All rights reserved" works (code/mods) to show what I expect you to do and not to do.
 
-First, my work can't be redistributed, re-uploaded, or republished in any form, regardless of whether it has been modified or not.
+The most important point to emphasize is that the works can't be redistributed, re-uploaded, or republished in any form, regardless of whether it has been modified or not.
+
+To be specific, considering common practices on the Vintage Story Mod DB:
+Any disclaimer like "All original design and assets belong to the original author" without my consent doesn't grant you any permission.
+If I did not explicitly allow it, it is not allowed.
+
 (That said, see the specific exceptions in the license)
-
-To specifically say considering the habit on the Vintage Story Mod DB,
-Any disclaimer like "All original design and assets belong to the original author" without author's consent doesn't grant you any permission.
 
 ### Things still allowed
 
-That said, I wouldn't block everything under the name of copyright.
-Here are examples of what is still allowed (they are originally not the target of copyright, just to clarify I think it's okay):
+That said, I do not intend to block everything under the name of copyright.
+Here are examples of what is still allowed (these are generally not the target of copyright, but are listed here for clarity):
 
 - A patch mod (a mod changing another mod) that doesn't contain the original code/assets
   - If it doesn't contain the original content, it's YOUR work and I have nothing to do with it
